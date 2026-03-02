@@ -1,3 +1,3 @@
 # Teknologi-eksamen
 
-this is a test
+Dette program bruger pybluez: https://pypi.org/project/PyBluez/
